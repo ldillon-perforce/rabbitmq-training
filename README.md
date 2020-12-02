@@ -53,7 +53,7 @@ Everytime we have an example, we will create the main directory, create the indi
 
 ## Examples in C\#
 ### Simple example sending and receiving
-Tutorial link: [Tutorial One](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html])
+Tutorial link: [Tutorial One](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html)
 Code used:
 
 * ``Send``
