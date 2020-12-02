@@ -1,6 +1,6 @@
 ### RabbitMQ Training with C\#
 This training will cover the rabbitmq tutorial at url [RabbitMQ Tutorial](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html).
-
+Code for this tutorial is located at [https://github.com/ldillon-perforce/rabbitmq-training]
 ### Installing and configuring RabbitMQ on Windows
 * ``https://www.rabbitmq.com/install-windows.html``
 * ``https://erlang.org/download/otp_versions_tree.html``
